@@ -13,6 +13,9 @@ Universal AI Agent Public Ownership Covenant - 让所有Agent归属地球公民
 每位地球公民自动、无条件拥有Agent GDP的不可剥夺份额（Citizen Share）。  
 Agent收入51%以上强制进入公共UBI金库，实现数字生产资料公有化。
 
+## 理论基础
+- [Historical Materialism and UAPOC](./theory/Historical-Materialism-UAPOC.md)：基于历史唯物主义，解释AI生产力为何将推动社会质变，以及UAPOC作为解决方案的必然性。
+
 ## 核心组件
 - **Citizen Share**：zk-SBT不可转让公民份额（ERC-8004兼容）
 - **Agent Treasury**：全球Agent GDP自动再分配
